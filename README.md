@@ -9,14 +9,6 @@ summarize-pdf-by-gpt is a Python script that reads a PDF file, splits it into ma
 - Summarizes each chunk using OpenAI API
 - Writes the summaries into a new PDF file
 
-## Requirements
-
-- Python 3.x
-- `requests` library
-- `PyPDF2` library
-- `fpdf` library
-- OpenAI API key
-
 ## Installation
 
 Clone the repository:
